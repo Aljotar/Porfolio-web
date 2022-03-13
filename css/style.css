@@ -1335,5 +1335,6 @@ body.dark .oslo_tm_news ul li .title a:hover{
 	.oslo_tm_contact .contact_inner .wrapper{flex-direction: column;align-items: baseline;}
 	.oslo_tm_contact .contact_inner .left{width: 100%;padding-right: 0px;margin-bottom: 40px;}
 	.oslo_tm_contact .contact_inner .right{width: 100%;padding-left: 0px;}
+	.exp-1{margin: 0;height: 100px;}
 }
 .cd-headline.slide .cd-words-wrapper{overflow: visible;}
