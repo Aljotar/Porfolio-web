@@ -232,6 +232,7 @@ img.svg{
 	clear: both;
 	float: left;
 	align-items: center;
+	margin-bottom: 1rem;
 }
 .oslo_tm_button a{
 	text-decoration: none;
@@ -724,6 +725,7 @@ img.svg{
 .oslo_tm_resume .experience_list ul li .second{
 	width: 30%;
 	padding-right: 20px;
+	padding: 4rem;
 }
 .oslo_tm_resume .experience_list ul li .first h3,
 .oslo_tm_resume .experience_list ul li .second h3{
@@ -750,6 +752,22 @@ img.svg{
 	width: 25rem;
 	height: 10rem;
 	background-image: url(https://campus.rollingcodeschool.com/pluginfile.php/9346/course/overviewfiles/RollingCodeSchool_Negro.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left;
+}
+.exp-3{
+	width: 25rem;
+	height: 10rem;
+	background-image: url(https://medias.musimundo.com/medias/M-roja-03.png?context=bWFzdGVyfHJvb3R8NDA2M3xpbWFnZS9wbmd8YUdRd0wyaGxNQzg1T0RRMU56WXlNamt6Tnprd0xuQnVad3w3NDNmYjhlZjA1MjE5OTUwZjM2ZDBhNDZmYTlmMmMyMjI0MGM5NmI1Zjg0MmI0MGQ2Y2VjNDVjZTdmMGM0YjM4);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left;
+}
+.exp-4{
+	width: 25rem;
+	height: 10rem;
+	background-image: url(https://previ.com.ar/wp-content/uploads/2023/10/previ-logo-2023-circular-150-x-150-3.webp);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: left;
@@ -1254,6 +1272,11 @@ body.dark .oslo_tm_news ul li .title a:hover{
 }
 .bi-whatsapp{
 	margin-left:15px;
+ }
+
+ .video {
+	width: 100%;
+	margin-top: 2rem
  }
 
 /*---------------------------------------------------*/
